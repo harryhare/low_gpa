@@ -3,7 +3,7 @@
 先定义低GPA标准，
 
  - GPA 换算后低于3.00/4.00
- - 百分制低于70
+ - 百分制低于75
  
 如果你的 GPA 高于此，可以关闭此网页啦
 
@@ -19,7 +19,7 @@
 * 本人也是刚刚准备申请，所以信息有限，欢迎指正和补充，pr 或者 issue 均可
 
 * 交流请加 [微信群](assets/wechat_group.jpg)
-
+<img src="assets/wechat_group.jpg" witdh="50%" height="%50">
 * 低GPA申请 [案例汇总](sample.md)
 
 ## 拯救低 GPA 
