@@ -21,6 +21,10 @@
 * 交流请加 [微信群](assets/wechat_group.jpg) 
 
   微信群二维码会定期更新，如果过期可以留言发issue
+  
+  不欢迎中介
+  
+  GPA>=3.00/4.00 请请不要加群
 
   <img src="assets/wechat_group.jpg" witdh="240px" height="320px">
 
@@ -91,16 +95,15 @@ todo：待更新
 
 ## 可以尝试的学校
 
+* IIT: IllinoisInstituteofTechnology 伊利诺理工大学（芝加哥）
 
-* Binghamton
+* SIT: StevensInstituteofTechnology 史蒂文斯科技学院
 
-* SMU
+* SMU: Southern Methodist University 美国南方卫理公会大学
 
-* SIT
+* UTD: University of Texas at Dallas  德克萨斯大学达拉斯分校
 
 * NJIT
-
-* IIT
 
 * NEU-is-ses
 
@@ -112,11 +115,11 @@ todo：待更新
 
 * SYU 雪城
 
-* UTD
-
 * WPI
 
 * drexel
+
+* Binghamton
 
 * BU MET (传说回国会被鄙视)
 
