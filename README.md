@@ -106,9 +106,11 @@ todo：待更新
 
 * UWT
 
+* SCU
+
 * SJSU
 
-* SYU
+* SYU 雪城
 
 * UTD
 
