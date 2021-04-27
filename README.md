@@ -24,7 +24,7 @@
   
   不欢迎中介
   
-  GPA>=3.00/4.00 请请不要加群
+  GPA>=3.00/4.00 请不要加群
 
   <img src="assets/wechat_group.jpg" witdh="240px" height="320px">
 
