@@ -18,8 +18,12 @@
 
 * 本人也是刚刚准备申请，所以信息有限，欢迎指正和补充，pr 或者 issue 均可
 
-* 交流请加 [微信群](assets/wechat_group.jpg) 微信群二维码会定期更新，如果过期可以留言发issue
-<img src="assets/wechat_group.jpg" witdh="20%" height="20%">
+* 交流请加 [微信群](assets/wechat_group.jpg) 
+
+  微信群二维码会定期更新，如果过期可以留言发issue
+
+  <img src="assets/wechat_group.jpg" witdh="240px" height="320px">
+
 * 低GPA申请 [案例汇总](sample.md)
 
 ## 拯救低 GPA 
