@@ -18,8 +18,8 @@
 
 * 本人也是刚刚准备申请，所以信息有限，欢迎指正和补充，pr 或者 issue 均可
 
-* 交流请加 [微信群](assets/wechat_group.jpg)
-<img src="assets/wechat_group.jpg" witdh="50%" height="%50">
+* 交流请加 [微信群](assets/wechat_group.jpg) 微信群二维码会定期更新，如果过期可以留言发issue
+<img src="assets/wechat_group.jpg" witdh="20%" height="20%">
 * 低GPA申请 [案例汇总](sample.md)
 
 ## 拯救低 GPA 
@@ -82,12 +82,6 @@ todo：待更新
 * 转学
 
   看到有人提到过，但是没有见到具体的例子
-
-
-## 交流请加微信群
-微信群二维码会定期更新，如果过期可以留言发issue
-
-![](assets/wechat_group.jpg)
 
 
 ## 友情链接
