@@ -94,7 +94,7 @@ todo：待更新
 [低GPA出国群 资料整合](https://github.com/jackwener/Low-GPA-Go-Abroad)
 
 
-## 其他
+## 福利
 [一亩三分地自动签到答题](https://github.com/harryhare/1point3acres)
 
 
