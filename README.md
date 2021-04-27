@@ -18,9 +18,9 @@
 
 * 本人也是刚刚准备申请，所以信息有限，欢迎指正和补充，pr 或者 issue 均可
 
-* 交流请加[微信群](assets/wechat_group.jpg)
+* 交流请加 [微信群](assets/wechat_group.jpg)
 
-* 低GPA申请[案例汇总](sample.md)
+* 低GPA申请 [案例汇总](sample.md)
 
 ## 拯救低 GPA 
 
