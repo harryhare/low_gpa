@@ -110,9 +110,13 @@ todo：待更新
 
 * UTD: University of Texas at Dallas  德克萨斯大学达拉斯分校
 
+* SYU 雪城
+
+* GWU 乔治华盛顿
+
 * NJIT
 
-* NEU-is-ses
+* NEU
 
 * UWT
 
@@ -120,17 +124,19 @@ todo：待更新
 
 * SJSU
 
-* SYU 雪城
-
 * WPI
 
 * drexel
 
 * Binghamton
 
+
+* UNC
+
 * BU MET (传说回国会被鄙视)
 
 * JHU CAREY  (传说回国会被鄙视）
+
 
 
 ## 其他方式
